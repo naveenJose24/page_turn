@@ -1,6 +1,6 @@
 [![Flutter Community: page_turn](https://fluttercommunity.dev/_github/header/page_turn)](https://github.com/fluttercommunity/community)
 
-# Page Turn Widget
+# Page Turn Widget - NULL SAFTEY
 
 [![pub package](https://img.shields.io/pub/v/page_turn.svg)](https://pub.dartlang.org/packages/page_turn)
 ![github pages](https://github.com/fluttercommunity/page_turn/workflows/github%20pages/badge.svg)
